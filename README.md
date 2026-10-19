@@ -8,7 +8,7 @@ I MADE THIS USING SCRAPS FROM THE TOYS I FOUND. IT IS JUST A SIMPLE WORKING CAR 
 
 ### Screenshots
 
-<img width="887" height="590" alt="image" src="https://github.com/user-attachments/assets/88b1b5c4-1356-433b-b5e1-486f245bd28e" />
+<img width="887" height="590" alt="image" src="https://raw.githubusercontent.com/rehan-kasim/Car/refs/heads/main/images/wiring-diagram.PNG" />
 
 MORE IMAGES AND VIDEOS AT /IMAGES
 
