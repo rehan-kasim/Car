@@ -1,0 +1,13 @@
+Item,Description,Quantity,Unit Cost (USD),Total Cost (USD),Local Reseller / Source
+DC motor,FILL IN voltage and model,1,0.50,0.50,Local reseller
+Gears,Salvaged from old toys. FILL IN size / tooth count,1,0.00,0.00,Salvaged
+Wheels / tyres,Salvaged from old toys. FILL IN diameter,4,0.00,0.00,Salvaged
+Cardboard,Scrap cardboard for the body,1,0.00,0.00,Salvaged
+Li-ion battery,3.7 V salvaged,1,0.00,0.00,Salvaged
+Charging module,TP4056 with USB input (salvaged),1,0.00,0.00,Salvaged
+Power switch,SPST on/off (salvaged),1,0.00,0.00,Salvaged
+Forward push button,2 contacts (salvaged),1,0.00,0.00,Salvaged
+Back push button,2 contacts (salvaged),1,0.00,0.00,Salvaged
+Wire,Hookup wire for the circuit,1,0.50,0.50,Local reseller
+Remote cable,Cable for the wired remote,1,0.50,0.50,Local reseller
+TOTAL,,,,1.50,
